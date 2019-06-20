@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumbersGameKotlin</string>
+
+    <string-array name="options">
+        <item>ben</item>
+        <item>jon</item>
+        <item>jerry</item>
+        <item>tom</item>
+
+    </string-array>
+</resources>
